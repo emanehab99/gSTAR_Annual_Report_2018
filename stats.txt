@@ -1,0 +1,40 @@
+Total Usage: 8173.169075332881 KSU
+Total Users: 712
+Female Users: 176
+Student Users: 397
+Australian-Based Users: 621
+International Institutions(usage): 9
+Australian Institutions(usage): 11
+
+@ARTICLE{2017MNRAS.470.1729M,
+   author = {{Madrid}, J.~P. and {Leigh}, N.~W.~C. and {Hurley}, J.~R. and 
+	{Giersz}, M.},
+    title = "{Mass evaporation rate of globular clusters in a strong tidal field}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1706.06635},
+ keywords = {methods: numerical, stars: kinematics and dynamics, globular clusters: general, stars: kinematics and dynamics - globular clusters: general},
+     year = 2017,
+    month = sep,
+   volume = 470,
+    pages = {1729-1737},
+      doi = {10.1093/mnras/stx1350},
+   adsurl = {http://adsabs.harvard.edu/abs/2017MNRAS.470.1729M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017MNRAS.468.4441R,
+   author = {{Rossi}, L.~J. and {Hurley}, J.~R. and {Bekki}, K.},
+    title = "{Long-term evolution of initially unvirialized, clumpy, mass-segregated star clusters in tidal fields}",
+  journal = {\mnras},
+ keywords = {gravitation, methods: numerical, galaxies: star clusters: general, galaxies: structure},
+     year = 2017,
+    month = jul,
+   volume = 468,
+    pages = {4441-4449},
+      doi = {10.1093/mnras/stx663},
+   adsurl = {http://adsabs.harvard.edu/abs/2017MNRAS.468.4441R},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
