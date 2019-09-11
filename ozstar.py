@@ -76,19 +76,20 @@ with open('authors_unique.dat', 'w') as author_file:
 print(unique_authors_count)
 
 
-# count institutions and create file with list of unique institutions
-
-start_tag = '<b>Affiliation:</b></td><td><br></td><td align="left" valign="top">'
-end_tag = '</td></tr>\n<tr><td valign="top" align="left"><b>Publication:</b></td><td><br></td><td align="left" valign="top">'
-
-dividers = ['AA', 'AB', 'AC', 'AD', 'AE', 'AF', 'AG', 'AH', 'AI', 'AJ', 'AK', 'AL', 'AM', 'AN', 'AO', 'AP', 'AQ', 'AR',
-            'AS', 'AT', 'AU', 'AV', 'AZ', 'AX', 'AY', 'AW', 'BA', 'BB', 'BC', 'BD', 'BE', 'BF', 'BG', 'BH', 'BI', 'BJ',
-            'BK', 'BL', 'BM', 'BN', 'BO', 'BP', 'BQ', 'BR', 'BS', 'BT', 'BU', 'BV', 'BZ', 'BX', 'BY', 'BW']
-
 ##############################################
 # Institutions part is not working because the content of ads pages is different and doesn't have the
 # affiliations section
 # Need to find another way
+
+
+# count institutions and create file with list of unique institutions
+
+# start_tag = '<b>Affiliation:</b></td><td><br></td><td align="left" valign="top">'
+# end_tag = '</td></tr>\n<tr><td valign="top" align="left"><b>Publication:</b></td><td><br></td><td align="left" valign="top">'
+#
+# dividers = ['AA', 'AB', 'AC', 'AD', 'AE', 'AF', 'AG', 'AH', 'AI', 'AJ', 'AK', 'AL', 'AM', 'AN', 'AO', 'AP', 'AQ', 'AR',
+#             'AS', 'AT', 'AU', 'AV', 'AZ', 'AX', 'AY', 'AW', 'BA', 'BB', 'BC', 'BD', 'BE', 'BF', 'BG', 'BH', 'BI', 'BJ',
+#             'BK', 'BL', 'BM', 'BN', 'BO', 'BP', 'BQ', 'BR', 'BS', 'BT', 'BU', 'BV', 'BZ', 'BX', 'BY', 'BW']
 
 
 # unique_institutions = []
